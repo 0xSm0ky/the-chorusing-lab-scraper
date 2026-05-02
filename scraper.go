@@ -25,17 +25,17 @@ type AudioMetadata struct {
 
 // AudioClip matches the TypeScript interface
 type AudioClip struct {
-	ID               string          `json:"id"`
-	Title            string          `json:"title"`
-	Duration         float64         `json:"duration"`
-	Filename         string          `json:"filename"`
-	OriginalFilename string          `json:"originalFilename"`
-	FileSize         int64           `json:"fileSize"`
-	Metadata         AudioMetadata   `json:"metadata"`
-	UploadedBy       string          `json:"uploadedBy"`
-	CreatedAt        string          `json:"createdAt"`
-	UpdatedAt        string          `json:"updatedAt"`
-	URL              string          `json:"url,omitempty"` // Added by API
+	ID               string        `json:"id"`
+	Title            string        `json:"title"`
+	Duration         float64       `json:"duration"`
+	Filename         string        `json:"filename"`
+	OriginalFilename string        `json:"originalFilename"`
+	FileSize         int64         `json:"fileSize"`
+	Metadata         AudioMetadata `json:"metadata"`
+	UploadedBy       string        `json:"uploadedBy"`
+	CreatedAt        string        `json:"createdAt"`
+	UpdatedAt        string        `json:"updatedAt"`
+	URL              string        `json:"url,omitempty"` // Added by API
 }
 
 // API response structure
@@ -45,13 +45,13 @@ type ClipsResponse struct {
 
 // Scraper configuration
 type Scraper struct {
-	baseURL      string
-	outputDir    string
-	audioDir     string
-	language     string
-	limit        int
-	batchSize    int
-	client       *http.Client
+	baseURL       string
+	outputDir     string
+	audioDir      string
+	language      string
+	limit         int
+	batchSize     int
+	client        *http.Client
 	downloadAudio bool
 }
 

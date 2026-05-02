@@ -1,105 +1,5 @@
 [
   {
-    "id": "1e93927b-44ff-4505-ae3d-4b62c4818b19",
-    "title": "Kluci z Prahy – Akorát si asi dovedete představit, že",
-    "duration": 5.797,
-    "filename": "1777497749713-4nhilbgzui5-cs_kluci_z_prahy_00_02.mp3",
-    "originalFilename": "cs_kluci_z_prahy_00_02.mp3",
-    "fileSize": 70317,
-    "metadata": {
-      "language": "Czech",
-      "speakerGender": "male",
-      "speakerAgeRange": "adult",
-      "speakerDialect": "Prague",
-      "transcript": "Akorát si asi dovedete představit, že zaparkovat tady nemusí bejt sranda.",
-      "sourceUrl": "https://youtu.be/3uzBX8-oRj4?si=BzDTBHJKMKLvgTPm",
-      "tags": [
-        "autoclip",
-        "prague",
-        "youtube"
-      ]
-    },
-    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
-    "createdAt": "2026-04-29T21:22:30.112655+00:00",
-    "updatedAt": "2026-04-29T21:48:05.114477+00:00",
-    "url": "/api/files/1777497749713-4nhilbgzui5-cs_kluci_z_prahy_00_02.mp3"
-  },
-  {
-    "id": "94c3267a-37dd-445f-b517-240f0439ab5c",
-    "title": "Kluci z Prahy – Tady je ten gml a na",
-    "duration": 5.239,
-    "filename": "1777497749602-7ix8tfzuy5s-cs_kluci_z_prahy_00_01.mp3",
-    "originalFilename": "cs_kluci_z_prahy_00_01.mp3",
-    "fileSize": 63693,
-    "metadata": {
-      "language": "Czech",
-      "speakerGender": "male",
-      "speakerAgeRange": "adult",
-      "speakerDialect": "Prague",
-      "transcript": "Tady je ten gml a na konci je ta základka. No, ale prostě když spěcháš, tak spěcháš kámo.",
-      "sourceUrl": "https://youtu.be/3uzBX8-oRj4?si=BzDTBHJKMKLvgTPm",
-      "tags": [
-        "autoclip",
-        "prague",
-        "youtube"
-      ]
-    },
-    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
-    "createdAt": "2026-04-29T21:22:29.92606+00:00",
-    "updatedAt": "2026-04-29T21:48:05.114477+00:00",
-    "url": "/api/files/1777497749602-7ix8tfzuy5s-cs_kluci_z_prahy_00_01.mp3"
-  },
-  {
-    "id": "20c6e1f2-7be2-45b8-8808-ed442764cc9f",
-    "title": "Kluci z Prahy – Tak mně na tom přijde kouzelný",
-    "duration": 5.938,
-    "filename": "1777497748737-s53q4cph3p-cs_kluci_z_prahy_00_03.mp3",
-    "originalFilename": "cs_kluci_z_prahy_00_03.mp3",
-    "fileSize": 72045,
-    "metadata": {
-      "language": "Czech",
-      "speakerGender": "male",
-      "speakerAgeRange": "adult",
-      "speakerDialect": "Prague",
-      "transcript": "Tak mně na tom přijde kouzelný, že žádáte své hosty, aby dodržovali dopravní předpisy.",
-      "sourceUrl": "https://youtu.be/3uzBX8-oRj4?si=BzDTBHJKMKLvgTPm",
-      "tags": [
-        "autoclip",
-        "prague",
-        "youtube"
-      ]
-    },
-    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
-    "createdAt": "2026-04-29T21:22:29.260223+00:00",
-    "updatedAt": "2026-04-29T21:48:05.114477+00:00",
-    "url": "/api/files/1777497748737-s53q4cph3p-cs_kluci_z_prahy_00_03.mp3"
-  },
-  {
-    "id": "be00977a-2536-4f9a-8e30-962ac0d44071",
-    "title": "Kluci z Prahy – Všechny tyto tři cesty vás zavedou",
-    "duration": 6.395,
-    "filename": "1777497748686-zhjr4hvxz78-cs_kluci_z_prahy_00_04.mp3",
-    "originalFilename": "cs_kluci_z_prahy_00_04.mp3",
-    "fileSize": 77517,
-    "metadata": {
-      "language": "Czech",
-      "speakerGender": "male",
-      "speakerAgeRange": "adult",
-      "speakerDialect": "Prague",
-      "transcript": "Všechny tyto tři cesty vás zavedou ke čtyřem měsícům služby extra.",
-      "sourceUrl": "https://youtu.be/3uzBX8-oRj4?si=BzDTBHJKMKLvgTPm",
-      "tags": [
-        "autoclip",
-        "prague",
-        "youtube"
-      ]
-    },
-    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
-    "createdAt": "2026-04-29T21:22:28.989244+00:00",
-    "updatedAt": "2026-04-29T21:48:05.114477+00:00",
-    "url": "/api/files/1777497748686-zhjr4hvxz78-cs_kluci_z_prahy_00_04.mp3"
-  },
-  {
     "id": "2e3ade80-33e8-4cd2-b29d-c1d53b8bc31b",
     "title": "Days and Words – I'm not saying that anyone learning",
     "duration": 4.86,
@@ -123,5 +23,1434 @@
     "createdAt": "2026-04-29T21:22:28.339567+00:00",
     "updatedAt": "2026-04-29T21:48:05.437917+00:00",
     "url": "/api/files/1777497748012-0tw2kton43ym-en_days_and_words_01_02.mp3"
+  },
+  {
+    "id": "6a51b954-2aaa-450c-b3bf-1d821160be85",
+    "title": "Days and Words – And I was listening to these",
+    "duration": 5.144,
+    "filename": "1777497748014-9ajbqzo17l-en_days_and_words_01_03.mp3",
+    "originalFilename": "en_days_and_words_01_03.mp3",
+    "fileSize": 62541,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "male",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "Australia",
+      "transcript": "And I was listening to these going were they always this easy to understand?",
+      "sourceUrl": "https://www.youtube.com/watch?v=79Pv1FyQ6KM",
+      "tags": [
+        "autoclip",
+        "australia",
+        "youtube"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-04-29T21:22:28.265955+00:00",
+    "updatedAt": "2026-04-29T21:48:05.437917+00:00",
+    "url": "/api/files/1777497748014-9ajbqzo17l-en_days_and_words_01_03.mp3"
+  },
+  {
+    "id": "6a1f5737-14e9-487e-9b93-6622868087af",
+    "title": "Days and Words – I couldn't read anything. It it",
+    "duration": 4.777,
+    "filename": "1777497747283-ij09fjntpu-en_days_and_words_01_04.mp3",
+    "originalFilename": "en_days_and_words_01_04.mp3",
+    "fileSize": 58221,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "male",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "Australia",
+      "transcript": "I couldn't read anything. It it was a little bit stressful, but I got to the airport in the end.",
+      "sourceUrl": "https://www.youtube.com/watch?v=79Pv1FyQ6KM",
+      "tags": [
+        "autoclip",
+        "australia",
+        "youtube"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-04-29T21:22:27.602321+00:00",
+    "updatedAt": "2026-04-29T21:48:05.437917+00:00",
+    "url": "/api/files/1777497747283-ij09fjntpu-en_days_and_words_01_04.mp3"
+  },
+  {
+    "id": "6a6a47c2-ca0f-4a7e-bcdd-d1fdfe8bb4b5",
+    "title": "André Norrils – I mean, people online swear it",
+    "duration": 5.012,
+    "filename": "1777497747273-w85dmyzjf-en_andr_norrils_02_01.mp3",
+    "originalFilename": "en_andr_norrils_02_01.mp3",
+    "fileSize": 60813,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "male",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "I mean, people online swear it changes everything, right?",
+      "sourceUrl": "https://www.youtube.com/watch?v=OnVDFholSOE",
+      "tags": [
+        "autoclip",
+        "youtube"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-04-29T21:22:27.586921+00:00",
+    "updatedAt": "2026-04-29T21:48:05.437917+00:00",
+    "url": "/api/files/1777497747273-w85dmyzjf-en_andr_norrils_02_01.mp3"
+  },
+  {
+    "id": "b14fbf42-9930-43b5-b221-65b64c756e56",
+    "title": "André Norrils – So, I stick my phone in",
+    "duration": 6.455,
+    "filename": "1777497746499-3odcanvw79-en_andr_norrils_02_02.mp3",
+    "originalFilename": "en_andr_norrils_02_02.mp3",
+    "fileSize": 78093,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "male",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "So, I stick my phone in my pocket. Not perfect, but it works.",
+      "sourceUrl": "https://www.youtube.com/watch?v=OnVDFholSOE",
+      "tags": [
+        "autoclip",
+        "youtube"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-04-29T21:22:26.866269+00:00",
+    "updatedAt": "2026-04-29T21:48:05.437917+00:00",
+    "url": "/api/files/1777497746499-3odcanvw79-en_andr_norrils_02_02.mp3"
+  },
+  {
+    "id": "286e4b20-e8b1-413c-bf51-6dffc8995c04",
+    "title": "André Norrils – So I still got some to",
+    "duration": 6.623,
+    "filename": "1777497746447-wn4cqraz4u8-en_andr_norrils_02_03.mp3",
+    "originalFilename": "en_andr_norrils_02_03.mp3",
+    "fileSize": 80109,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "male",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "So I still got some to go. Time to hop back on the treadmill.",
+      "sourceUrl": "https://www.youtube.com/watch?v=OnVDFholSOE",
+      "tags": [
+        "autoclip",
+        "youtube"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-04-29T21:22:26.793771+00:00",
+    "updatedAt": "2026-04-29T21:48:05.437917+00:00",
+    "url": "/api/files/1777497746447-wn4cqraz4u8-en_andr_norrils_02_03.mp3"
+  },
+  {
+    "id": "06537b13-1f0e-41c9-a628-d1a56cef4186",
+    "title": "Joanna Stern – But why? And are they safe",
+    "duration": 7.24,
+    "filename": "1777497745500-c4hu3c58iof-en_joanna_stern_03_01.mp3",
+    "originalFilename": "en_joanna_stern_03_01.mp3",
+    "fileSize": 87597,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "But why? And are they safe? And what can they actually do?",
+      "sourceUrl": "https://www.youtube.com/watch?v=ucy9VTLDwPU",
+      "tags": [
+        "autoclip",
+        "youtube"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-04-29T21:22:26.040053+00:00",
+    "updatedAt": "2026-04-29T21:48:05.437917+00:00",
+    "url": "/api/files/1777497745500-c4hu3c58iof-en_joanna_stern_03_01.mp3"
+  },
+  {
+    "id": "d4fb9482-508c-403a-a24c-d3165685ea82",
+    "title": "André Norrils – But first, we've got to talk",
+    "duration": 6.05,
+    "filename": "1777497745500-xgeggluilhs-en_andr_norrils_02_04.mp3",
+    "originalFilename": "en_andr_norrils_02_04.mp3",
+    "fileSize": 73485,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "male",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "But first, we've got to talk about how this challenge became somewhat of a challenge for me.",
+      "sourceUrl": "https://www.youtube.com/watch?v=OnVDFholSOE",
+      "tags": [
+        "autoclip",
+        "youtube"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-04-29T21:22:25.932506+00:00",
+    "updatedAt": "2026-04-29T21:48:05.437917+00:00",
+    "url": "/api/files/1777497745500-xgeggluilhs-en_andr_norrils_02_04.mp3"
+  },
+  {
+    "id": "3c634592-1fe2-40cf-ae3d-a48ad3340bd0",
+    "title": "Joanna Stern – And here, chasing a Polish boar",
+    "duration": 6.159,
+    "filename": "1777497744644-krv4tjkrn6h-en_joanna_stern_03_02.mp3",
+    "originalFilename": "en_joanna_stern_03_02.mp3",
+    "fileSize": 74637,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "And here, chasing a Polish boar.",
+      "sourceUrl": "https://www.youtube.com/watch?v=ucy9VTLDwPU",
+      "tags": [
+        "autoclip",
+        "youtube"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-04-29T21:22:25.013217+00:00",
+    "updatedAt": "2026-04-29T21:48:05.437917+00:00",
+    "url": "/api/files/1777497744644-krv4tjkrn6h-en_joanna_stern_03_02.mp3"
+  },
+  {
+    "id": "b157dfb2-1e06-46e2-b8d3-053b2ce03485",
+    "title": "This library has every book ever published. (Tom Scott)",
+    "duration": 4.922449,
+    "filename": "1776302144595-nq9590gak1-This_library_has_every_book_ever_published_.wav",
+    "originalFilename": "This library has every book ever published..wav",
+    "fileSize": 868704,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "male",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "British",
+      "transcript": "The British Library has a copy of every book ever published in the UK.",
+      "sourceUrl": "https://www.youtube.com/watch?v=ZNVuIU6UUiM",
+      "tags": []
+    },
+    "uploadedBy": "2cbcef27-c27a-4c28-9cbf-7f770dd2f8ad",
+    "createdAt": "2026-04-16T01:15:46.014508+00:00",
+    "updatedAt": "2026-04-16T01:15:46.014508+00:00",
+    "url": "/api/files/1776302144595-nq9590gak1-This_library_has_every_book_ever_published_.wav"
+  },
+  {
+    "id": "49cdaffe-17f7-465f-b076-45a7727febf8",
+    "title": "Clip from This library has every book ever published.",
+    "duration": 4.339274173161524,
+    "filename": "1776297137959-x6fyu4nryya-Clip_from_This_library_has_every_book_ever_published__2026-04-15T23-52-17.mp3",
+    "originalFilename": "Clip_from_This_library_has_every_book_ever_published__2026-04-15T23-52-17.mp3",
+    "fileSize": 72952,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "male",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "British",
+      "transcript": "The British Library has a copy of every book ever published in the UK.",
+      "sourceUrl": "https://www.youtube.com/watch?v=ZNVuIU6UUiM",
+      "tags": [
+        "Tom Scott"
+      ]
+    },
+    "uploadedBy": "2cbcef27-c27a-4c28-9cbf-7f770dd2f8ad",
+    "createdAt": "2026-04-15T23:52:19.338707+00:00",
+    "updatedAt": "2026-04-15T23:52:19.338707+00:00",
+    "url": "/api/files/1776297137959-x6fyu4nryya-Clip_from_This_library_has_every_book_ever_published__2026-04-15T23-52-17.mp3"
+  },
+  {
+    "id": "820c6552-cfb3-4f37-bc97-6c5fb9eb8f37",
+    "title": "oh my god what is that outfit？ #movie # #edit #shorts #cinematicedit #modernfamily",
+    "duration": 114.453333,
+    "filename": "1774472099586-tqsdi15hwrg-oh_my_god_what_is_that_outfit___movie____edit__shorts__cinematicedit__modernfamily.mp3",
+    "originalFilename": "oh my god what is that outfit？ #movie # #edit #shorts #cinematicedit #modernfamily.mp3",
+    "fileSize": 916076,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "teen",
+      "transcript": "Oh my god, what is that outfit? Are you going goth? You still sleep with a stuffed panda. Don't you have a fraternity to pass out in? There you are, mom. Hang on a second, what is this? Is this because of your new friend Skylar? Oh, she's just trying to change her image.\r\nNice work by the way, you went from dork to Count Dorkula. Can we talk about my clothes? You were supposed to send them. I'll be with you in a second.\r\nHang on, I don't like this Skylar. You don't need to change who you are to fit in with the cool kids. Of course she does.\r\nShe just is so uncool, she doesn't know who the cool kids are. Don't you have a class to fail? Don't you have a raven to train? Listen, I have repeated outfits twice this week. It's a disaster.\r\nDon't be a baby, it's gonna look cool. Just hold still. Oh, mom, what are you doing here? I am changing my shirt.\r\nWhy aren't you at school? Miss, some of you are. Oh no, you don't get to talk Morticia. Okay, we cut last period.\r\nBig deal because we're shaving the backs of our necks, which is totally a style. But of course, now you're going to freak out like you always do about every little thing. Let's do it.\r\nWhat? Yeah, yeah, let's shave up some heads. Come on, who's first? I'm not afraid. Then let's do this.\r\nIt's shaving time. Shavy gravy, shaved by the bale. Why are you talking like that? Hair up girls, let's see some napes.\r\nCome on, let's... Oh god, no. Oh my god, oh my god. I'm so sorry.\r\nSkylar, wait. I can even add up for you. Stay away from me, both of you.\r\nYou ruined my life. Mom shaved Skylar's head? That's hilarious. It's not gonna be so fun the next time she bothers to show up for school.\r\nWhat do you care? You know you don't even like her. I don't, Skylar's awful. Mom actually did me a huge favor.\r\nOh my god, do not tell her that. She will never shut up. I know, remember when you admitted that you didn't hate that James Taylor concert she dragged you to? She was unbearable.\r\nI told you, he's got the voice of an angel. She's such a nerd. I kind of miss her though.",
+      "tags": []
+    },
+    "uploadedBy": "48c8ff7d-f256-46a6-925a-7e13fcfd8c1d",
+    "createdAt": "2026-03-25T20:55:00.949996+00:00",
+    "updatedAt": "2026-03-25T20:55:00.949996+00:00",
+    "url": "/api/files/1774472099586-tqsdi15hwrg-oh_my_god_what_is_that_outfit___movie____edit__shorts__cinematicedit__modernfamily.mp3"
+  },
+  {
+    "id": "7257fe07-d5a4-4dbf-8206-1c848a1135ca",
+    "title": "Are We Heading Toward World War III Heni Ozi Cukier TED 10",
+    "duration": 9.038367,
+    "filename": "1772309019821-ehc7gj3kzl-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_10.mp3",
+    "originalFilename": "Are We Heading Toward World War III Heni Ozi Cukier TED 10.mp3",
+    "fileSize": 293261,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "male",
+      "speakerAgeRange": "senior",
+      "speakerDialect": "American",
+      "transcript": "human jobs at the same time, or a little bit later, the famous economist John Maynard",
+      "sourceUrl": "https://www.youtube.com/watch?v=Ew59SKy181Y\u0026t=289s",
+      "tags": []
+    },
+    "uploadedBy": "4444eb3e-bf9e-46f2-b966-16a32d7886bb",
+    "createdAt": "2026-02-28T20:03:41.276583+00:00",
+    "updatedAt": "2026-02-28T20:03:41.276583+00:00",
+    "url": "/api/files/1772309019821-ehc7gj3kzl-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_10.mp3"
+  },
+  {
+    "id": "543d2f1e-fa07-48af-8f78-124ec0743036",
+    "title": "Are We Heading Toward World War III Heni Ozi Cukier TED 9",
+    "duration": 15.777959,
+    "filename": "1772308829132-ptojiyf86bl-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_9.mp3",
+    "originalFilename": "Are We Heading Toward World War III Heni Ozi Cukier TED 9.mp3",
+    "fileSize": 401095,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "male",
+      "speakerAgeRange": "senior",
+      "speakerDialect": "American",
+      "transcript": "disrupted societies, for instance, machines replaced workers and new farming techniques uprooted populations from the countryside. These led to insecurity and",
+      "sourceUrl": "https://www.youtube.com/watch?v=Ew59SKy181Y\u0026t=289s",
+      "tags": []
+    },
+    "uploadedBy": "4444eb3e-bf9e-46f2-b966-16a32d7886bb",
+    "createdAt": "2026-02-28T20:00:30.696968+00:00",
+    "updatedAt": "2026-02-28T20:00:30.696968+00:00",
+    "url": "/api/files/1772308829132-ptojiyf86bl-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_9.mp3"
+  },
+  {
+    "id": "9c26ae07-3a5d-4797-8b8a-9285d63ced3b",
+    "title": "Are We Heading Toward World War III Heni Ozi Cukier TED 12",
+    "duration": 4.832653,
+    "filename": "1772308392965-cx82wdapaaj-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_8.mp3",
+    "originalFilename": "Are We Heading Toward World War III Heni Ozi Cukier TED 8.mp3",
+    "fileSize": 225969,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "male",
+      "speakerAgeRange": "senior",
+      "speakerDialect": "American",
+      "transcript": "spreading ideas across the globe.",
+      "sourceUrl": "https://www.youtube.com/watch?v=Ew59SKy181Y\u0026t=289s",
+      "tags": []
+    },
+    "uploadedBy": "4444eb3e-bf9e-46f2-b966-16a32d7886bb",
+    "createdAt": "2026-02-28T19:53:14.235972+00:00",
+    "updatedAt": "2026-02-28T20:04:38.622324+00:00",
+    "url": "/api/files/1772308392965-cx82wdapaaj-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_8.mp3"
+  },
+  {
+    "id": "2b8a124f-47dd-40b7-a86a-06d37a509385",
+    "title": "Are We Heading Toward World War III Heni Ozi Cukier TED 11",
+    "duration": 13.296327,
+    "filename": "1772308259434-dthlcydvv6h-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_7.mp3",
+    "originalFilename": "Are We Heading Toward World War III Heni Ozi Cukier TED 7.mp3",
+    "fileSize": 361388,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "male",
+      "speakerAgeRange": "senior",
+      "speakerDialect": "American",
+      "transcript": "However, World War I taught us a very important lesson. Economics may explain what can be done,",
+      "sourceUrl": "https://www.youtube.com/watch?v=Ew59SKy181Y\u0026t=289s",
+      "tags": []
+    },
+    "uploadedBy": "4444eb3e-bf9e-46f2-b966-16a32d7886bb",
+    "createdAt": "2026-02-28T19:51:00.25181+00:00",
+    "updatedAt": "2026-02-28T20:04:23.620204+00:00",
+    "url": "/api/files/1772308259434-dthlcydvv6h-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_7.mp3"
+  },
+  {
+    "id": "5c77a77e-a89a-43d3-9235-6f991a967591",
+    "title": "Are We Heading Toward World War III Heni Ozi Cukier TED 8",
+    "duration": 7.314286,
+    "filename": "1772308057090-fowfjzkj975-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_8.mp3",
+    "originalFilename": "Are We Heading Toward World War III Heni Ozi Cukier TED 8.mp3",
+    "fileSize": 265676,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "male",
+      "speakerAgeRange": "senior",
+      "speakerDialect": "American",
+      "transcript": "because they are key to understand how conflicts become worldwide disasters. Wars.",
+      "sourceUrl": "https://www.youtube.com/watch?v=Ew59SKy181Y\u0026t=289s",
+      "tags": []
+    },
+    "uploadedBy": "4444eb3e-bf9e-46f2-b966-16a32d7886bb",
+    "createdAt": "2026-02-28T19:47:38.257566+00:00",
+    "updatedAt": "2026-02-28T19:47:38.257566+00:00",
+    "url": "/api/files/1772308057090-fowfjzkj975-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_8.mp3"
+  },
+  {
+    "id": "75429818-a124-4961-9488-c1efd0429b58",
+    "title": "Are We Heading Toward World War III Heni Ozi Cukier TED 7",
+    "duration": 5.616327,
+    "filename": "1772307706855-q4mj45zju9e-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_7.mp3",
+    "originalFilename": "Are We Heading Toward World War III Heni Ozi Cukier TED 7.mp3",
+    "fileSize": 238508,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "male",
+      "speakerAgeRange": "senior",
+      "speakerDialect": "American",
+      "transcript": "mutally beneficial. Why? They were gaining less than their rivals,",
+      "sourceUrl": "https://www.youtube.com/watch?v=Ew59SKy181Y\u0026t=289s",
+      "tags": []
+    },
+    "uploadedBy": "4444eb3e-bf9e-46f2-b966-16a32d7886bb",
+    "createdAt": "2026-02-28T19:41:47.725379+00:00",
+    "updatedAt": "2026-02-28T19:41:47.725379+00:00",
+    "url": "/api/files/1772307706855-q4mj45zju9e-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_7.mp3"
+  },
+  {
+    "id": "2b43f7fd-c31f-456a-a620-1259e5738d28",
+    "title": "Are We Heading Toward World War III Heni Ozi Cukier TED 6",
+    "duration": 3.448163,
+    "filename": "1772307480157-kwqdbqtjxs-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_6.mp3",
+    "originalFilename": "Are We Heading Toward World War III Heni Ozi Cukier TED 6.mp3",
+    "fileSize": 203818,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "male",
+      "speakerAgeRange": "senior",
+      "speakerDialect": "American",
+      "transcript": "Is affecting childrens development",
+      "sourceUrl": "https://www.youtube.com/watch?v=Ew59SKy181Y\u0026t=289s",
+      "tags": []
+    },
+    "uploadedBy": "4444eb3e-bf9e-46f2-b966-16a32d7886bb",
+    "createdAt": "2026-02-28T19:38:01.251047+00:00",
+    "updatedAt": "2026-02-28T19:38:01.251047+00:00",
+    "url": "/api/files/1772307480157-kwqdbqtjxs-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_6.mp3"
+  },
+  {
+    "id": "90dfccfc-dd3a-4d51-853b-eeff42bee5db",
+    "title": "Are We Heading Toward World War III Heni Ozi Cukier TED 5",
+    "duration": 12.747755,
+    "filename": "1772307367250-stlbfzrhfg-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_5.mp3",
+    "originalFilename": "Are We Heading Toward World War III Heni Ozi Cukier TED 5.mp3",
+    "fileSize": 352611,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "male",
+      "speakerAgeRange": "senior",
+      "speakerDialect": "American",
+      "transcript": "Traditionalists, at that time, they were worried that modern culture was simply eroding tradition, family and religion. Today",
+      "sourceUrl": "https://www.youtube.com/watch?v=Ew59SKy181Y\u0026t=289s",
+      "tags": []
+    },
+    "uploadedBy": "4444eb3e-bf9e-46f2-b966-16a32d7886bb",
+    "createdAt": "2026-02-28T19:36:08.774776+00:00",
+    "updatedAt": "2026-02-28T19:36:08.774776+00:00",
+    "url": "/api/files/1772307367250-stlbfzrhfg-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_5.mp3"
+  },
+  {
+    "id": "e2c202d0-4b8d-4aee-87fd-8c657f624808",
+    "title": "Are We Heading Toward World War III Heni Ozi Cukier TED 4",
+    "duration": 11.885714,
+    "filename": "1772307146779-gj4crlk90c-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_4.mp3",
+    "originalFilename": "Are We Heading Toward World War III Heni Ozi Cukier TED 4.mp3",
+    "fileSize": 338818,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "male",
+      "speakerAgeRange": "senior",
+      "speakerDialect": "American",
+      "transcript": "There were questions at that time, and new mass movements, they emerged, such as labor unions and nationalist leagues.",
+      "sourceUrl": "https://www.youtube.com/watch?v=Ew59SKy181Y\u0026t=289s",
+      "tags": []
+    },
+    "uploadedBy": "4444eb3e-bf9e-46f2-b966-16a32d7886bb",
+    "createdAt": "2026-02-28T19:32:28.105688+00:00",
+    "updatedAt": "2026-02-28T19:32:28.105688+00:00",
+    "url": "/api/files/1772307146779-gj4crlk90c-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_4.mp3"
+  },
+  {
+    "id": "7f846c4f-68b8-41c8-9f6a-309609a78601",
+    "title": "Are We Heading Toward World War III Heni Ozi Cukier TED 3",
+    "duration": 7.627755,
+    "filename": "1772306832690-feptce8fpd8-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_3.mp3",
+    "originalFilename": "Are We Heading Toward World War III Heni Ozi Cukier TED 3.mp3",
+    "fileSize": 270691,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "male",
+      "speakerAgeRange": "senior",
+      "speakerDialect": "American",
+      "transcript": "Technological innovations have produced social anxieties and destabilized societies.",
+      "sourceUrl": "https://www.youtube.com/watch?v=Ew59SKy181Y\u0026t=289s",
+      "tags": []
+    },
+    "uploadedBy": "4444eb3e-bf9e-46f2-b966-16a32d7886bb",
+    "createdAt": "2026-02-28T19:27:14.330786+00:00",
+    "updatedAt": "2026-02-28T19:27:14.330786+00:00",
+    "url": "/api/files/1772306832690-feptce8fpd8-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_3.mp3"
+  },
+  {
+    "id": "fcf42405-217f-4daf-95ba-3cdd14435075",
+    "title": "Are We Heading Toward World War III Heni Ozi Cukier TED 2",
+    "duration": 10.985556,
+    "filename": "1772251786105-qbf578p1kk-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED__1_.mp3",
+    "originalFilename": "Are We Heading Toward World War III Heni Ozi Cukier TED (1).mp3",
+    "fileSize": 177066,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "male",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "Our biases, So I want to do something different instead of comparing historical examples with what is happening now",
+      "sourceUrl": "https://www.youtube.com/watch?v=Ew59SKy181Y",
+      "tags": []
+    },
+    "uploadedBy": "4444eb3e-bf9e-46f2-b966-16a32d7886bb",
+    "createdAt": "2026-02-28T04:09:47.468529+00:00",
+    "updatedAt": "2026-02-28T04:09:47.468529+00:00",
+    "url": "/api/files/1772251786105-qbf578p1kk-Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED__1_.mp3"
+  },
+  {
+    "id": "094d2da5-ecd3-493f-a246-960fd8851f5b",
+    "title": "Are We Heading Toward World War III Heni Ozi Cukier TED",
+    "duration": 17.109775,
+    "filename": "1772251206621-l8peygfqrn-_Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_2026-02-28T03-59-50.mp3",
+    "originalFilename": "_Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_2026-02-28T03-59-50.mp3",
+    "fileSize": 275606,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "male",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "One way to understand today's events is to look for clues from the past, but cherry-picking historical events to forecast the future is a risky exercise that oftentimes only reinforces our biases",
+      "sourceUrl": "https://www.youtube.com/watch?v=Ew59SKy181Y",
+      "tags": []
+    },
+    "uploadedBy": "4444eb3e-bf9e-46f2-b966-16a32d7886bb",
+    "createdAt": "2026-02-28T04:00:07.733409+00:00",
+    "updatedAt": "2026-02-28T04:00:07.733409+00:00",
+    "url": "/api/files/1772251206621-l8peygfqrn-_Are_We_Heading_Toward_World_War_III_Heni_Ozi_Cukier_TED_2026-02-28T03-59-50.mp3"
+  },
+  {
+    "id": "ad7418dd-c385-4466-9f9b-56ef91b2673d",
+    "title": "American Toilet Problem Clip 1",
+    "duration": 4.913,
+    "filename": "1768857499591-elqwz2l9dde-american_toilet_problem_clip_001.mp3",
+    "originalFilename": "american_toilet_problem_clip_001.mp3",
+    "fileSize": 79341,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "So after visiting dozens of beautiful, sculptural, well-maintained",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:20.119339+00:00",
+    "updatedAt": "2026-01-19T21:18:20.119339+00:00",
+    "url": "/api/files/1768857499591-elqwz2l9dde-american_toilet_problem_clip_001.mp3"
+  },
+  {
+    "id": "cf1da418-9a30-4bb4-a9d4-5910289f4985",
+    "title": "American Toilet Problem Clip 2",
+    "duration": 5.697,
+    "filename": "1768857499589-zp3umelrie7-american_toilet_problem_clip_002.mp3",
+    "originalFilename": "american_toilet_problem_clip_002.mp3",
+    "fileSize": 92013,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "and transparent, yes, transparent public toilets in Japan, I started to wonder,",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:19.961967+00:00",
+    "updatedAt": "2026-01-19T21:18:19.961967+00:00",
+    "url": "/api/files/1768857499589-zp3umelrie7-american_toilet_problem_clip_002.mp3"
+  },
+  {
+    "id": "e7773af9-a874-43ee-968d-9489debab6bb",
+    "title": "American Toilet Problem Clip 3",
+    "duration": 3.403,
+    "filename": "1768857499108-i4f2xfjukkh-american_toilet_problem_clip_003.mp3",
+    "originalFilename": "american_toilet_problem_clip_003.mp3",
+    "fileSize": 55149,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "why don't we have that?",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:19.514554+00:00",
+    "updatedAt": "2026-01-19T21:18:19.514554+00:00",
+    "url": "/api/files/1768857499108-i4f2xfjukkh-american_toilet_problem_clip_003.mp3"
+  },
+  {
+    "id": "aa092e10-b212-4527-872f-a89f60bfee73",
+    "title": "American Toilet Problem Clip 4",
+    "duration": 1.86,
+    "filename": "1768857499110-rng3ddnlfh-american_toilet_problem_clip_004.mp3",
+    "originalFilename": "american_toilet_problem_clip_004.mp3",
+    "fileSize": 30573,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "An average person has to pee",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:19.456276+00:00",
+    "updatedAt": "2026-01-19T21:18:19.456276+00:00",
+    "url": "/api/files/1768857499110-rng3ddnlfh-american_toilet_problem_clip_004.mp3"
+  },
+  {
+    "id": "5f4b2172-ee11-460e-ba63-f5a58a471bd7",
+    "title": "American Toilet Problem Clip 5",
+    "duration": 4.446,
+    "filename": "1768857498625-vpuqzmrwc1n-american_toilet_problem_clip_005.mp3",
+    "originalFilename": "american_toilet_problem_clip_005.mp3",
+    "fileSize": 72045,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "6 to 8 times a day, which actually seems kind of low.",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:19.02891+00:00",
+    "updatedAt": "2026-01-19T21:18:19.02891+00:00",
+    "url": "/api/files/1768857498625-vpuqzmrwc1n-american_toilet_problem_clip_005.mp3"
+  },
+  {
+    "id": "d05c9361-0c4c-4870-a7cd-4dd795df7ea0",
+    "title": "American Toilet Problem Clip 6",
+    "duration": 6.406,
+    "filename": "1768857498627-834ip71zx0r-american_toilet_problem_clip_006.mp3",
+    "originalFilename": "american_toilet_problem_clip_006.mp3",
+    "fileSize": 103149,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "I calculated an average of 12 times a day, but if you're not in the office or home",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:19.021411+00:00",
+    "updatedAt": "2026-01-19T21:18:19.021411+00:00",
+    "url": "/api/files/1768857498627-834ip71zx0r-american_toilet_problem_clip_006.mp3"
+  },
+  {
+    "id": "b72fcae4-b7cf-43b2-9595-4f58a3af210e",
+    "title": "American Toilet Problem Clip 8",
+    "duration": 3.654,
+    "filename": "1768857498251-38wbvv6oqac-american_toilet_problem_clip_008.mp3",
+    "originalFilename": "american_toilet_problem_clip_008.mp3",
+    "fileSize": 59373,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "But what if you have kids, or if you're pregnant,",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:18.54408+00:00",
+    "updatedAt": "2026-01-19T21:18:18.54408+00:00",
+    "url": "/api/files/1768857498251-38wbvv6oqac-american_toilet_problem_clip_008.mp3"
+  },
+  {
+    "id": "6488c158-17e1-4bbb-acdc-c9e8fc6faa4e",
+    "title": "American Toilet Problem Clip 7",
+    "duration": 3.82,
+    "filename": "1768857498257-3zw8cnusmxw-american_toilet_problem_clip_007.mp3",
+    "originalFilename": "american_toilet_problem_clip_007.mp3",
+    "fileSize": 62061,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "and you're just out and about, if you have to go, where do you go?",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:18.52287+00:00",
+    "updatedAt": "2026-01-19T21:18:18.52287+00:00",
+    "url": "/api/files/1768857498257-3zw8cnusmxw-american_toilet_problem_clip_007.mp3"
+  },
+  {
+    "id": "c809df28-82ae-47ec-b574-6edea42683d6",
+    "title": "American Toilet Problem Clip 10",
+    "duration": 4.737,
+    "filename": "1768857497779-fi1x46airhw-american_toilet_problem_clip_010.mp3",
+    "originalFilename": "american_toilet_problem_clip_010.mp3",
+    "fileSize": 76653,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "In fact, many cabdrivers have reported to using bottles to relieve themselves.",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:18.139055+00:00",
+    "updatedAt": "2026-01-19T21:18:18.139055+00:00",
+    "url": "/api/files/1768857497779-fi1x46airhw-american_toilet_problem_clip_010.mp3"
+  },
+  {
+    "id": "4df4c4dc-80a2-4fc5-8448-6f8d9da9ae54",
+    "title": "American Toilet Problem Clip 9",
+    "duration": 3.528,
+    "filename": "1768857497777-gncfaie9iv4-american_toilet_problem_clip_009.mp3",
+    "originalFilename": "american_toilet_problem_clip_009.mp3",
+    "fileSize": 57069,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "or if you're a senior, or you just have a tiny bladder?",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:18.054258+00:00",
+    "updatedAt": "2026-01-19T21:18:18.054258+00:00",
+    "url": "/api/files/1768857497777-gncfaie9iv4-american_toilet_problem_clip_009.mp3"
+  },
+  {
+    "id": "791c5065-25dc-492c-89a1-e9d1deafb345",
+    "title": "American Toilet Problem Clip 11",
+    "duration": 4.905,
+    "filename": "1768857497269-xp10jgcdkt-american_toilet_problem_clip_011.mp3",
+    "originalFilename": "american_toilet_problem_clip_011.mp3",
+    "fileSize": 79341,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "And the thing is, we have public toilets, but there's just so few of them,",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:17.685679+00:00",
+    "updatedAt": "2026-01-19T21:18:17.685679+00:00",
+    "url": "/api/files/1768857497269-xp10jgcdkt-american_toilet_problem_clip_011.mp3"
+  },
+  {
+    "id": "bc3aa347-9baf-42d6-8830-58b8e539da4c",
+    "title": "American Toilet Problem Clip 12",
+    "duration": 4.612,
+    "filename": "1768857497267-l5hk0zvvck-american_toilet_problem_clip_012.mp3",
+    "originalFilename": "american_toilet_problem_clip_012.mp3",
+    "fileSize": 74733,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "especially compared to our toilet Paradise, Japan.",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:17.62194+00:00",
+    "updatedAt": "2026-01-19T21:18:17.62194+00:00",
+    "url": "/api/files/1768857497267-l5hk0zvvck-american_toilet_problem_clip_012.mp3"
+  },
+  {
+    "id": "92330b6d-6851-42e7-9757-5e4f497545f3",
+    "title": "American Toilet Problem Clip 13",
+    "duration": 5.822,
+    "filename": "1768857496715-e7lsye6txx-american_toilet_problem_clip_013.mp3",
+    "originalFilename": "american_toilet_problem_clip_013.mp3",
+    "fileSize": 93933,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "And if you manage to find a public toilet, I think any self-respecting person",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:17.190865+00:00",
+    "updatedAt": "2026-01-19T21:18:17.190865+00:00",
+    "url": "/api/files/1768857496715-e7lsye6txx-american_toilet_problem_clip_013.mp3"
+  },
+  {
+    "id": "64b6f1ba-5a21-4309-a709-88e74d7094a9",
+    "title": "American Toilet Problem Clip 14",
+    "duration": 5.071,
+    "filename": "1768857496712-9a2r4zazvb-american_toilet_problem_clip_014.mp3",
+    "originalFilename": "american_toilet_problem_clip_014.mp3",
+    "fileSize": 82029,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "living in a North American city will try to avoid a public toilet at all costs.",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:17.095665+00:00",
+    "updatedAt": "2026-01-19T21:18:17.095665+00:00",
+    "url": "/api/files/1768857496712-9a2r4zazvb-american_toilet_problem_clip_014.mp3"
+  },
+  {
+    "id": "c64db4ff-9a4d-41f3-94ae-9f42ccce1dff",
+    "title": "American Toilet Problem Clip 16",
+    "duration": 3.403,
+    "filename": "1768857496079-srgfgkwlqp-american_toilet_problem_clip_016.mp3",
+    "originalFilename": "american_toilet_problem_clip_016.mp3",
+    "fileSize": 55149,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "And how did this become the norm?",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:16.618228+00:00",
+    "updatedAt": "2026-01-19T21:18:16.618228+00:00",
+    "url": "/api/files/1768857496079-srgfgkwlqp-american_toilet_problem_clip_016.mp3"
+  },
+  {
+    "id": "db96a5c5-8d6e-4dda-b9fa-8692d6f7939f",
+    "title": "American Toilet Problem Clip 15",
+    "duration": 4.32,
+    "filename": "1768857496080-ixsy0q5toi-american_toilet_problem_clip_015.mp3",
+    "originalFilename": "american_toilet_problem_clip_015.mp3",
+    "fileSize": 69741,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "Shouldn't we have a slightly more dignified method of peeing in public?",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:16.58382+00:00",
+    "updatedAt": "2026-01-19T21:18:16.58382+00:00",
+    "url": "/api/files/1768857496080-ixsy0q5toi-american_toilet_problem_clip_015.mp3"
+  },
+  {
+    "id": "5af94bc4-34fc-4d7f-90a0-e6b721a169c1",
+    "title": "American Toilet Problem Clip 18",
+    "duration": 3.403,
+    "filename": "1768857495489-1bb89c7498u-american_toilet_problem_clip_018.mp3",
+    "originalFilename": "american_toilet_problem_clip_018.mp3",
+    "fileSize": 55149,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "This might be the very first thing that popped into your head.",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:15.921545+00:00",
+    "updatedAt": "2026-01-19T21:18:15.921545+00:00",
+    "url": "/api/files/1768857495489-1bb89c7498u-american_toilet_problem_clip_018.mp3"
+  },
+  {
+    "id": "d3a1888c-ee44-421f-977f-2c3e67e6d9f9",
+    "title": "American Toilet Problem Clip 17",
+    "duration": 3.278,
+    "filename": "1768857495504-90yah906r2q-american_toilet_problem_clip_017.mp3",
+    "originalFilename": "american_toilet_problem_clip_017.mp3",
+    "fileSize": 53229,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "A portion of this video is sponsored by Straight Arrow and see.",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:15.889469+00:00",
+    "updatedAt": "2026-01-19T21:18:15.889469+00:00",
+    "url": "/api/files/1768857495504-90yah906r2q-american_toilet_problem_clip_017.mp3"
+  },
+  {
+    "id": "0346323f-71c5-44e9-8dbc-9f3206573866",
+    "title": "American Toilet Problem Clip 19",
+    "duration": 3.569,
+    "filename": "1768857494373-8ywl27p09l-american_toilet_problem_clip_019.mp3",
+    "originalFilename": "american_toilet_problem_clip_019.mp3",
+    "fileSize": 57837,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "Most North American cities, especially in the West Coast,",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:15.155077+00:00",
+    "updatedAt": "2026-01-19T21:18:15.155077+00:00",
+    "url": "/api/files/1768857494373-8ywl27p09l-american_toilet_problem_clip_019.mp3"
+  },
+  {
+    "id": "c9e63aa8-bb66-4503-9ad6-a7aba47fa92b",
+    "title": "American Toilet Problem Clip 20",
+    "duration": 4.404,
+    "filename": "1768857494374-t1pqk0s03j-american_toilet_problem_clip_020.mp3",
+    "originalFilename": "american_toilet_problem_clip_020.mp3",
+    "fileSize": 71277,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "are dealing with the problem of homelessness and crime and a crazy",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:15.135964+00:00",
+    "updatedAt": "2026-01-19T21:18:15.135964+00:00",
+    "url": "/api/files/1768857494374-t1pqk0s03j-american_toilet_problem_clip_020.mp3"
+  },
+  {
+    "id": "eb7483af-a021-4348-a183-2f9ff66cb535",
+    "title": "American Toilet Problem Clip 22",
+    "duration": 5.405,
+    "filename": "1768857493769-qrtt8ctneeb-american_toilet_problem_clip_022.mp3",
+    "originalFilename": "american_toilet_problem_clip_022.mp3",
+    "fileSize": 87405,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "So public toilets in most North American cities get a lot more abuse,",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:14.223568+00:00",
+    "updatedAt": "2026-01-19T21:18:14.223568+00:00",
+    "url": "/api/files/1768857493769-qrtt8ctneeb-american_toilet_problem_clip_022.mp3"
+  },
+  {
+    "id": "90986bc2-6f69-4932-bc09-2829ae3e97b3",
+    "title": "American Toilet Problem Clip 21",
+    "duration": 4.737,
+    "filename": "1768857493771-kjui4zpo8gj-american_toilet_problem_clip_021.mp3",
+    "originalFilename": "american_toilet_problem_clip_021.mp3",
+    "fileSize": 76653,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "drug epidemic, which are just not really pressing issues in places like Japan.",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:14.172065+00:00",
+    "updatedAt": "2026-01-19T21:18:14.172065+00:00",
+    "url": "/api/files/1768857493771-kjui4zpo8gj-american_toilet_problem_clip_021.mp3"
+  },
+  {
+    "id": "82599139-097a-4048-b331-ee400ca95b3c",
+    "title": "American Toilet Problem Clip 24",
+    "duration": 3.737,
+    "filename": "1768857493343-jvmx6m9qgni-american_toilet_problem_clip_024.mp3",
+    "originalFilename": "american_toilet_problem_clip_024.mp3",
+    "fileSize": 60525,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "which seriously increases the cost of maintenance.",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:13.67773+00:00",
+    "updatedAt": "2026-01-19T21:18:13.67773+00:00",
+    "url": "/api/files/1768857493343-jvmx6m9qgni-american_toilet_problem_clip_024.mp3"
+  },
+  {
+    "id": "90c49839-bc1d-4f1d-a7a7-8aa2e9901e50",
+    "title": "American Toilet Problem Clip 23",
+    "duration": 3.904,
+    "filename": "1768857493345-gjbvf6dbnu-american_toilet_problem_clip_023.mp3",
+    "originalFilename": "american_toilet_problem_clip_023.mp3",
+    "fileSize": 63213,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "and they get vandalized and they get used for drugs and other things,",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:13.661447+00:00",
+    "updatedAt": "2026-01-19T21:18:13.661447+00:00",
+    "url": "/api/files/1768857493345-gjbvf6dbnu-american_toilet_problem_clip_023.mp3"
+  },
+  {
+    "id": "b4c68708-371a-41f3-9b23-0092d9683a9f",
+    "title": "American Toilet Problem Clip 26",
+    "duration": 5.489,
+    "filename": "1768857492714-saa1kxcmp9c-american_toilet_problem_clip_026.mp3",
+    "originalFilename": "american_toilet_problem_clip_026.mp3",
+    "fileSize": 88557,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "about $34,000 a month to maintain,",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:13.06675+00:00",
+    "updatedAt": "2026-01-19T21:18:13.06675+00:00",
+    "url": "/api/files/1768857492714-saa1kxcmp9c-american_toilet_problem_clip_026.mp3"
+  },
+  {
+    "id": "7fe32919-edf4-4d0a-9bf0-529e27e36bc1",
+    "title": "American Toilet Problem Clip 25",
+    "duration": 3.778,
+    "filename": "1768857492717-ws8r601mucj-american_toilet_problem_clip_025.mp3",
+    "originalFilename": "american_toilet_problem_clip_025.mp3",
+    "fileSize": 61293,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "One of the toilets in the Downtown Eastside of Vancouver costs",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:13.051088+00:00",
+    "updatedAt": "2026-01-19T21:18:13.051088+00:00",
+    "url": "/api/files/1768857492717-ws8r601mucj-american_toilet_problem_clip_025.mp3"
+  },
+  {
+    "id": "3af9f24b-e44c-45c3-9005-a07f06128403",
+    "title": "American Toilet Problem Clip 27",
+    "duration": 4.362,
+    "filename": "1768857492300-zenw022t07-american_toilet_problem_clip_027.mp3",
+    "originalFilename": "american_toilet_problem_clip_027.mp3",
+    "fileSize": 70509,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "which is about $400,000 a year.",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:12.633273+00:00",
+    "updatedAt": "2026-01-19T21:18:12.633273+00:00",
+    "url": "/api/files/1768857492300-zenw022t07-american_toilet_problem_clip_027.mp3"
+  },
+  {
+    "id": "2542dd96-45c2-422d-bd90-6c87bd5725c3",
+    "title": "American Toilet Problem Clip 28",
+    "duration": 3.778,
+    "filename": "1768857492299-llhu2x535xb-american_toilet_problem_clip_028.mp3",
+    "originalFilename": "american_toilet_problem_clip_028.mp3",
+    "fileSize": 61293,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "So we're designing them to be as unpleasant as possible",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:12.616538+00:00",
+    "updatedAt": "2026-01-19T21:18:12.616538+00:00",
+    "url": "/api/files/1768857492299-llhu2x535xb-american_toilet_problem_clip_028.mp3"
+  },
+  {
+    "id": "03cfa9fd-c777-4b3b-af87-5e63e46f5c0f",
+    "title": "American Toilet Problem Clip 29",
+    "duration": 4.488,
+    "filename": "1768857491813-kc3djc1zel-american_toilet_problem_clip_029.mp3",
+    "originalFilename": "american_toilet_problem_clip_029.mp3",
+    "fileSize": 72429,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "with open grates and blue lighting, and also to be",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:12.217007+00:00",
+    "updatedAt": "2026-01-19T21:18:12.217007+00:00",
+    "url": "/api/files/1768857491813-kc3djc1zel-american_toilet_problem_clip_029.mp3"
+  },
+  {
+    "id": "db275711-a904-46e0-bfc2-fd7de678e6c0",
+    "title": "American Toilet Problem Clip 30",
+    "duration": 5.32,
+    "filename": "1768857491811-xxda970fm2p-american_toilet_problem_clip_030.mp3",
+    "originalFilename": "american_toilet_problem_clip_030.mp3",
+    "fileSize": 85869,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "as vandalism proof as possible with materials like steel and plastic.",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:12.19835+00:00",
+    "updatedAt": "2026-01-19T21:18:12.19835+00:00",
+    "url": "/api/files/1768857491811-xxda970fm2p-american_toilet_problem_clip_030.mp3"
+  },
+  {
+    "id": "d0fa5e7f-e9be-45a8-beb3-2a758dd09e63",
+    "title": "American Toilet Problem Clip 31",
+    "duration": 3.279,
+    "filename": "1768857491396-g6znu30qpm-american_toilet_problem_clip_031.mp3",
+    "originalFilename": "american_toilet_problem_clip_031.mp3",
+    "fileSize": 53229,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "Now let's compare that with one of our design our toilets.",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:11.719891+00:00",
+    "updatedAt": "2026-01-19T21:18:11.719891+00:00",
+    "url": "/api/files/1768857491396-g6znu30qpm-american_toilet_problem_clip_031.mp3"
+  },
+  {
+    "id": "95ebff8e-9a0a-4574-afe9-44935b99e0e0",
+    "title": "American Toilet Problem Clip 32",
+    "duration": 2.778,
+    "filename": "1768857491393-7vrpear5kji-american_toilet_problem_clip_032.mp3",
+    "originalFilename": "american_toilet_problem_clip_032.mp3",
+    "fileSize": 45165,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "This is a fully transparent toilet,",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:11.663959+00:00",
+    "updatedAt": "2026-01-19T21:18:11.663959+00:00",
+    "url": "/api/files/1768857491393-7vrpear5kji-american_toilet_problem_clip_032.mp3"
+  },
+  {
+    "id": "92edbf61-95c6-4f9e-955d-c7344c8e508c",
+    "title": "American Toilet Problem Clip 33",
+    "duration": 3.403,
+    "filename": "1768857491028-8z1u5gagxu-american_toilet_problem_clip_033.mp3",
+    "originalFilename": "american_toilet_problem_clip_033.mp3",
+    "fileSize": 55149,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "but as soon as you go in and lock the door.",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:11.319242+00:00",
+    "updatedAt": "2026-01-19T21:18:11.319242+00:00",
+    "url": "/api/files/1768857491028-8z1u5gagxu-american_toilet_problem_clip_033.mp3"
+  },
+  {
+    "id": "9ebe1fda-a7b9-4594-b432-08f8645ff807",
+    "title": "American Toilet Problem Clip 34",
+    "duration": 2.694,
+    "filename": "1768857491029-0l0jex5i0if-american_toilet_problem_clip_034.mp3",
+    "originalFilename": "american_toilet_problem_clip_034.mp3",
+    "fileSize": 44013,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "It becomes opaque.",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:11.311417+00:00",
+    "updatedAt": "2026-01-19T21:18:11.311417+00:00",
+    "url": "/api/files/1768857491029-0l0jex5i0if-american_toilet_problem_clip_034.mp3"
+  },
+  {
+    "id": "a92364c1-272f-49eb-81e8-a6aefbdf2562",
+    "title": "American Toilet Problem Clip 36",
+    "duration": 4.446,
+    "filename": "1768857490501-t1d1usld8hb-american_toilet_problem_clip_036.mp3",
+    "originalFilename": "american_toilet_problem_clip_036.mp3",
+    "fileSize": 72045,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "during the most private thing in the world, in the most public space.",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:10.943812+00:00",
+    "updatedAt": "2026-01-19T21:18:10.943812+00:00",
+    "url": "/api/files/1768857490501-t1d1usld8hb-american_toilet_problem_clip_036.mp3"
+  },
+  {
+    "id": "a348d0b0-aa89-49f2-8b2b-f7ea69b23d24",
+    "title": "American Toilet Problem Clip 35",
+    "duration": 2.527,
+    "filename": "1768857490504-9424eug553m-american_toilet_problem_clip_035.mp3",
+    "originalFilename": "american_toilet_problem_clip_035.mp3",
+    "fileSize": 41325,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "It's such a strange experience",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:10.896242+00:00",
+    "updatedAt": "2026-01-19T21:18:10.896242+00:00",
+    "url": "/api/files/1768857490504-9424eug553m-american_toilet_problem_clip_035.mp3"
+  },
+  {
+    "id": "f23e2644-1988-4ef9-b259-a4a7abd49b9b",
+    "title": "American Toilet Problem Clip 38",
+    "duration": 4.905,
+    "filename": "1768857490021-8lexeomcrry-american_toilet_problem_clip_038.mp3",
+    "originalFilename": "american_toilet_problem_clip_038.mp3",
+    "fileSize": 79341,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "It's like saying, hey, guys, you know, public toilets.",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:10.420001+00:00",
+    "updatedAt": "2026-01-19T21:18:10.420001+00:00",
+    "url": "/api/files/1768857490021-8lexeomcrry-american_toilet_problem_clip_038.mp3"
+  },
+  {
+    "id": "f3c9b82c-fbe1-4d94-bc5b-6306d8ff7eda",
+    "title": "American Toilet Problem Clip 37",
+    "duration": 4.571,
+    "filename": "1768857490022-x5qjxruofp-american_toilet_problem_clip_037.mp3",
+    "originalFilename": "american_toilet_problem_clip_037.mp3",
+    "fileSize": 73965,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "But also, this toilet is the ultimate flex.",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:10.380465+00:00",
+    "updatedAt": "2026-01-19T21:18:10.380465+00:00",
+    "url": "/api/files/1768857490022-x5qjxruofp-american_toilet_problem_clip_037.mp3"
+  },
+  {
+    "id": "33be5d25-45e6-4076-821e-8e9c145b681d",
+    "title": "American Toilet Problem Clip 40",
+    "duration": 1.109,
+    "filename": "1768857488906-dga7itsuec-american_toilet_problem_clip_040.mp3",
+    "originalFilename": "american_toilet_problem_clip_040.mp3",
+    "fileSize": 18669,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "Oh, yeah.",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:09.918157+00:00",
+    "updatedAt": "2026-01-19T21:18:09.918157+00:00",
+    "url": "/api/files/1768857488906-dga7itsuec-american_toilet_problem_clip_040.mp3"
+  },
+  {
+    "id": "c8a45f84-bed9-4ada-aba2-9f7b766b881d",
+    "title": "American Toilet Problem Clip 39",
+    "duration": 4.529,
+    "filename": "1768857488915-r9c26ltigsg-american_toilet_problem_clip_039.mp3",
+    "originalFilename": "american_toilet_problem_clip_039.mp3",
+    "fileSize": 73197,
+    "metadata": {
+      "language": "English",
+      "speakerGender": "female",
+      "speakerAgeRange": "adult",
+      "speakerDialect": "American",
+      "transcript": "Yeah, those disgusting, awful places.",
+      "sourceUrl": "https://www.youtube.com/watch?v=EGpXZL5y2Cc",
+      "tags": [
+        "american"
+      ]
+    },
+    "uploadedBy": "03726333-cdfe-4aeb-846c-f746fb645e4d",
+    "createdAt": "2026-01-19T21:18:09.703408+00:00",
+    "updatedAt": "2026-01-19T21:18:09.703408+00:00",
+    "url": "/api/files/1768857488915-r9c26ltigsg-american_toilet_problem_clip_039.mp3"
   }
 ]
